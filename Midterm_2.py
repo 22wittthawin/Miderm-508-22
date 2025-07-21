@@ -1,7 +1,3 @@
-a = int(input())
-b = int(input())
-
-a, b = b, a
-
-print(a)
-print(b)
+m = int(input())
+n = int(input())
+print(m-n)
